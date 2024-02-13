@@ -1,9 +1,13 @@
 <h1 align="center">
   Olá eu sou o Marcelo Damascenco
 </h1>
-<h3 align="center">
-  Sou um apaixonado por tecnologia e desenvolvedor Full Stack .Net C# e Angular.
-</h3>
+
+### About me
+
+ - 💼 - Hoje trabalho como Desenvolvedor Full Stack .Net C# e Angular.
+ - 📫 - Como entrar em contato comigo: [e-mail](msdamasceno@gmail.com)
+
+##
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,angular,ts,html,css,vscode,git,github,gitlab" />
