@@ -1,5 +1,14 @@
-### Hi there 👋
-
+<h1 align="center">
+  Olá eu sou o Marcelo Damascenco
+</h1>
+<h3 align="center">
+  Sou um apaixonado por tecnologia e desenvolvedor Full Stack .Net C# e Angular.
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,angular,ts,html,css,vscode,git,github,gitlab" />
+  </a>
+</p>
 <!--
 **msdamasceno/msdamasceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
